@@ -1,0 +1,15 @@
+/* Write your CSS here */
+
+.inner-container{
+    background-color: #150b3e;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    padding: 25px;
+    border-radius: 10px;
+}
+.icon-container{
+    background-color: #c7d2fe;
+    padding: 20px;
+    border-radius: 40px;
+}
